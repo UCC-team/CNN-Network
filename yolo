@@ -23,3 +23,5 @@ for f in ff:
 listfile.close()
 ---------------code end 2------------------
 
+疑问：标签的读取是固定从'./scripts/labels/person'中读取的？
+
