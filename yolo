@@ -1,0 +1,11 @@
+voc格式训练：
+./darknet detector train cfg/voc.data cfg/yolov3-voc.cfg darknet53.conv.74
+需要修改的文件有：
+1 cfg/voc.data
+  classes= 1
+  train  = /root/YanZX/darknet/scripts/train.txt
+  valid  = /home/pjreddie/data/voc/2007_test.txt
+  names = data/voc.names
+  backup = backup
+
+2 data/voc.names (标签的名字，无影响)
