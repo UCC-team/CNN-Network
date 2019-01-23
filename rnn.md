@@ -6,7 +6,7 @@
 [`[代码]`](https://github.com/princewen/tensorflow_practice/tree/master/chat_bot_seq2seq_attention)
 [`[代码]`](https://github.com/princewen/tensorflow_practice/tree/master/nlp)
 
-三 自动文摘 [`[Textsum model based on Seq2Seq+attention(tensorflow)]`](https://blog.csdn.net/c2a2o2/article/details/79140021）
+三 自动文摘 [`[Textsum model based on Seq2Seq+attention(tensorflow)]`](https://blog.csdn.net/c2a2o2/article/details/79140021)
 
 [`[代码]`](https://github.com/rockingdingo/deepnlp/tree/master/deepnlp/textsum)
 [`[代码]`](https://github.com/rockingdingo/deepnlp/tree/r0.1.5/deepnlp)
