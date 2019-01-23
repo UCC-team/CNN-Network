@@ -22,6 +22,9 @@ for f in ff:
     listfile.write('%s\n'%(os.path.join(cwd,f)))
 listfile.close()
 ---------------code end 2------------------
-
+测试
+./darknet yolo test cfg/yolov3-voc.cfg backup/yolov3-voc_900.weights
+./darknet detect cfg/yolov3-voc.cfg backup/yolov3-voc_900.weights scripts/images/person/s1.jpg
+./darknet detector test cfg/voc.data cfg/yolov3-voc.cfg backup/yolov3-voc_900.weights scripts/images/person/s1.jpg
 疑问：标签的读取是固定从'./scripts/labels/person'中读取的？
 
